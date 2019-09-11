@@ -2,6 +2,8 @@
 
 This is my Udacity Machine Learning Engineer (MLE) Nanodegree Capstone project. Please click [here](https://github.com/Kevin-Chen0/pommerman-playground/blob/master/report.pdf) to access the final report. This report also walkthroughs the project source code that are available here.
 
+_____________________________________________________________________________________________________________________________
+
 > First time? check out our [website](https://www.pommerman.com) for more information,
 > our [Discord](https://discordapp.com/invite/wjVJEDc) to join the community,
 > or read the [documentation](./docs) to get started.
