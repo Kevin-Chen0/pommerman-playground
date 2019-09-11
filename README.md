@@ -1,6 +1,6 @@
 # Playground
 
-This is my Udacity Machine Learning Engineer (MLE) Nanodegree Capstone project. Please click [here](https://github.com/Kevin-Chen0/pommerman-playground/blob/master/report.pdf) to access the final report. This report also walkthroughs this project source code. Below is the general information regarding the Pommerman environment.
+This is my Udacity Machine Learning Engineer (MLE) Nanodegree Capstone project. Please click [here](https://github.com/Kevin-Chen0/pommerman-playground/blob/master/report.pdf) to view my final report. This report also walkthroughs this project source code. Below is the general information regarding the Pommerman environment.
 
 _____________________________________________________________________________________________________________________________
 
